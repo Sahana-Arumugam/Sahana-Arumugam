@@ -82,7 +82,7 @@ I'm an Integrated M.Tech Software Engineering student passionate about building 
 
 AI-powered predictive maintenance platform integrating Machine Learning, RAG-powered LLMs, blockchain, and distributed telemetry processing for explainable industrial diagnostics.
 
-🔗 **Repository:** https://github.com/Sahana-Arumugam/roller_failure_pred
+🔗 **Repository:** [GitHub Link](https://github.com/Sahana-Arumugam/roller_failure_pred)
 
 ---
 
@@ -90,7 +90,7 @@ AI-powered predictive maintenance platform integrating Machine Learning, RAG-pow
 
 Real-time campus crowd intelligence platform leveraging machine learning, event-driven processing, and smart routing to predict congestion across large-scale environments.
 
-🔗 **Repository:** https://github.com/Sahana-Arumugam/movitex
+🔗 **Repository:** [GitHub Link](https://github.com/Sahana-Arumugam/movitex)
 
 ---
 
@@ -106,7 +106,7 @@ Machine learning benchmarking framework utilizing Bayesian Optimization, automat
 
 Carbon footprint analytics platform featuring real-time emissions tracking, interactive dashboards, and sustainability insights for informed decision-making.
 
-🔗 **Repository:** https://github.com/Sahana-Arumugam/carboloom |   🌐 **Live Demo:** https://carboloomapp.vercel.app/
+🔗 **Repository:** [GitHub Link](https://github.com/Sahana-Arumugam/carboloom) |   🌐 **Live Demo:** [Open Website](https://carboloomapp.vercel.app/)
 
 ---
 
@@ -124,7 +124,5 @@ Carbon footprint analytics platform featuring real-time emissions tracking, inte
 **Portfolio:** https://portfolio-sahana-gray.vercel.app/
 
 **LinkedIn:** https://www.linkedin.com/in/sahanaarumugam
-
-**Resume:** *Your Resume Link*
 
 **Email:** sahanaarums16@gmail.com
