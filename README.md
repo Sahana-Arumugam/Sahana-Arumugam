@@ -48,7 +48,7 @@ I'm an Integrated M.Tech Software Engineering student passionate about building 
 
 AI-powered predictive maintenance platform integrating Machine Learning, RAG-powered LLMs, blockchain, and distributed telemetry processing for explainable industrial diagnostics.
 
-🔗 **Repository:** [*GitHub Link*  ](https://github.com/Sahana-Arumugam/roller_failure_pred) 
+🔗 **Repository:** https://github.com/Sahana-Arumugam/roller_failure_pred
 
 ---
 
@@ -64,7 +64,7 @@ Real-time campus crowd intelligence platform leveraging machine learning, event-
 
 Machine learning benchmarking framework utilizing Bayesian Optimization, automated hyperparameter tuning, and cross-validation to identify optimal predictive models.
 
-🔗 **Repository:** *GitHub Link*
+🔗 **Repository:** [GitHub Link](https://github.com/Sahana-Arumugam/Compiler-optimization-engine)
 
 ---
 
@@ -72,11 +72,11 @@ Machine learning benchmarking framework utilizing Bayesian Optimization, automat
 
 Carbon footprint analytics platform featuring real-time emissions tracking, interactive dashboards, and sustainability insights for informed decision-making.
 
-🔗 **Repository:** *GitHub Link*   |   🌐 **Live Demo:** *Portfolio Link*
+🔗 **Repository:** https://github.com/Sahana-Arumugam/carboloom |   🌐 **Live Demo:** https://carboloomapp.vercel.app/
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 * 🥇 **1st Place** — Hack'HER'Thon 2026 National Hackathon
 * 🥇 **1st Place** — IEEE TEMS Hack Expertise Hackathon
@@ -85,12 +85,12 @@ Carbon footprint analytics platform featuring real-time emissions tracking, inte
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-🌐 **Portfolio:** *Your Portfolio Link*
+**Portfolio:** https://portfolio-sahana-gray.vercel.app/
 
-💼 **LinkedIn:** *Your LinkedIn Link*
+**LinkedIn:** https://www.linkedin.com/in/sahanaarumugam
 
-📄 **Resume:** *Your Resume Link*
+**Resume:** *Your Resume Link*
 
-📧 **Email:** *Your Email Address*
+**Email:** sahanaarums16@gmail.com
