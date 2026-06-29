@@ -126,3 +126,19 @@ Carbon footprint analytics platform featuring real-time emissions tracking, inte
 **LinkedIn:** https://www.linkedin.com/in/sahanaarumugam
 
 **Email:** sahanaarums16@gmail.com
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahana-ArumugamE&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana-Arumugam&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sahana-Arumugam&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahana-Arumugam&theme=github-dark&hide_border=true"/>
+</p>
